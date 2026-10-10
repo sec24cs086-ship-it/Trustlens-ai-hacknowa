@@ -1,0 +1,7 @@
+{
+  "name": "TRUSTLENS AI",
+  "description": "Multi-modal scam and phishing threat intelligence platform with deterministic trust scoring, Gemini reasoning, trust network graphs, and multilingual voice support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
